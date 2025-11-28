@@ -13,6 +13,8 @@ dist
 dist-ssr
 coverage
 *.local
+.env
+Thumbs.db
 
 # Editor directories and files
 .vscode/*
